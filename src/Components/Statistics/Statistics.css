@@ -1,0 +1,18 @@
+.statistic{
+    background-color: coral;
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.price p {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0; 
+    font-size: 16px; 
+}
